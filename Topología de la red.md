@@ -1,2 +1,2 @@
 
-(imagenes/TopologiaFisica.jpg =400x)
+![Mi imagen](imagenes/TopologiaFisica.jpg )
